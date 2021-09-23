@@ -1,5 +1,5 @@
 This is a simple particle system built using OpenGL.
 
-[Click here](https://github.com/YechengChu/particle-systems/blob/master/Particle%20systems.pdf) to download a report for this project.
+[Click here](https://github.com/YechengChu/particle-systems/blob/master/Particle%20systems.pdf) to view or download the report for this project.
 
-[Click here](https://youtu.be/NknRANvlNaU) to watch a demo video of this project.
+[Click here](https://youtu.be/NknRANvlNaU) to watch a demo video for this project.
